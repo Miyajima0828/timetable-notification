@@ -16,5 +16,5 @@
 　GAS（JavaScpipt）<br>
 　Googleスプレッドシート<br>
 　以下のリンクが使用したスプレッドシートです。<br>
- <a href="https://docs.google.com/spreadsheets/d/1Kzl1pwFQ0WNHApnZqZ48LIUDn6TVwetzYkmB-magpoo/edit?usp=sharing" rel="noreferrer" target="_blank"> 
+ <a href="https://docs.google.com/spreadsheets/d/1Kzl1pwFQ0WNHApnZqZ48LIUDn6TVwetzYkmB-magpoo/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> 
  スプレッドシート</a>
